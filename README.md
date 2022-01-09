@@ -3,6 +3,8 @@ Instagram phishing project at Node.JS
 Project is a fake Instagram login screen. All form data will be saved there is a text file. After making the supposed "login" you will be redirected to the official website of Instagram.<br/><br/>
 _Please use this for knowledge only. Don't use this for evil. We don't like bad people :(_
 
+<a href="https://www.buymeacoffee.com/cesinha" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="28" width="119"></a>
+
 ---
 Install the required dependency presented in the **package.json** file
 ```
